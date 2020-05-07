@@ -1,5 +1,5 @@
 # CS-220-Scripts-Project-
-The plan is to use the scripting language Autohotkey which allows the user to make custom hotkeys on their keyboard to launch certain apps.
+The plan is to use the scripting language Autohotkey(https://www.autohotkey.com/docs/AutoHotkey.htm) which allows the user to make custom hotkeys on their keyboard to launch certain apps.
 I plant to make a gui implementation of the language where the user will only have to select the keys and the app they want to open and 
 not see any of the scripting stuff.
 This might be too ambitious but i want to add hotkeys for app controls too such as volume control, spotify next/volume, youtube next/volume,
