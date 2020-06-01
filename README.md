@@ -16,4 +16,4 @@ Quick note: might need to spam win+alt+o to open the window and hide it. After h
 
 The TextlanguagetoNormal.txt file contains scripts to change text words such as "idk" into "I don't know" and "sry" to "Sorry". You can load it into yourHotKey.ahk file using the loadtextscript method.
 
-Everything is implemented in a GUI!
+**Everything is implemented in a GUI!**
