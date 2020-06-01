@@ -14,3 +14,5 @@ The Spotify.ahk is a premade script i found on github :https://gist.github.com/j
 I only added the command to open spotify.
 P.S note that the script only works if you run spotify before running the script.
 Quick note: might need to spam win+alt+o to open the window and hide it. After hiding it make sure to click anywhere else before using the hotkeys.
+
+The TextlanguagetoNormal.txt file contains scripts to change text words such as "idk" into "I don't know" and "sry" to "Sorry". You can load it into yourHotKey.ahk file using the loadtextscript method.
