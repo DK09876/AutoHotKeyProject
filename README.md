@@ -1,4 +1,3 @@
-# CS-220-Scripts-Project-
 The plan is to make a software using the scripting language Autohotkey(https://www.autohotkey.com/docs/AutoHotkey.htm) which allows the user to make custom hotkeys on their keyboard to launch certain apps.
 I plant to make a gui implementation of the language where the user will only have to select the keys and the app they want to open and 
 not see any of the scripting stuff.
@@ -16,3 +15,5 @@ P.S note that the script only works if you run spotify before running the script
 Quick note: might need to spam win+alt+o to open the window and hide it. After hiding it make sure to click anywhere else before using the hotkeys.
 
 The TextlanguagetoNormal.txt file contains scripts to change text words such as "idk" into "I don't know" and "sry" to "Sorry". You can load it into yourHotKey.ahk file using the loadtextscript method.
+
+Everything is implemented in a GUI!
