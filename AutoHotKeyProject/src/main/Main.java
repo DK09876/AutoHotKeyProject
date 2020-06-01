@@ -5,6 +5,7 @@ import functions.Functions;
 public class Main {
 	public static void main(String[] args) throws IOException {
 		Functions thisfn=new Functions();
-		thisfn.LoadScriptTest();
+		//test code
+		//thisfn.RunProgram("ctrl d", "Chrome.exe");;
 	}
 }
