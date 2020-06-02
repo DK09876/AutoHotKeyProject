@@ -66,7 +66,8 @@ public class Functions {
 		String result="";
 		Scanner reader = new Scanner(new File("TextlanguagetoNormal.txt"));
 		while (reader.hasNext()) {
-			result+=reader.next();
+			result+=reader.next() + "\r\n";
+			
 		}
 		WriteToScript(result);
 		reader.close();
